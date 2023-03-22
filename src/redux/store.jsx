@@ -9,6 +9,6 @@ const store = configureStore({
   },
 });
 
-export const server = "https://digilabs-render-rhl3.vercel.app/api/v1"
+export const server = "https://digilabs-latest-backend.vercel.app/api/v1"
 
 export default store;
